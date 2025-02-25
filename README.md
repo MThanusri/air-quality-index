@@ -4,6 +4,6 @@
 ### Week 1
 
 - [1.py](./1.py)
-- [view Notebook](https://github.com/MThanusri/air-quality-index/blob/main/output1.ipynb)
+- [output](https://github.com/MThanusri/air-quality-index/blob/main/output1.ipynb)
 
 
