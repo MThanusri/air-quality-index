@@ -33,4 +33,4 @@ print('\n')
 print(df.shape) # updated rows and columns adter dropping 'AQI' null values
 print('\n')
 null_val = (df.isnull().sum()/df.isnull().count()*100).sort_values(ascending=False)
-print(null_val) # numm values percentage
+print(null_val) # null values percentage
