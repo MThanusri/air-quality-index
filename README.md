@@ -1,3 +1,6 @@
 # air-quality-index
-Week 1 - 1.py
+## My Python Scripts
+
+- [1.py](./1.py) 
+
 
